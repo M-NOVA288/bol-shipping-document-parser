@@ -1,0 +1,25 @@
+BILL OF LADING
+BOL No: BOL-2026-004812
+Ship Date: 10/14/2026
+Carrier: Gulf Coast Freight LLC   SCAC: GCFL
+
+SHIP FROM:
+Bayport Distribution Center
+11200 Port Rd
+Pasadena, TX 77507
+
+SHIP TO:
+Acme Industrial Supply
+4500 Commerce St, Suite 210
+Dallas, TX 75226
+
+PO Number: PO-778134
+
+ITEMS
+Product Code   Description            Qty   Weight
+PC-10432       Polyethylene Resin     40    22,000 lbs
+PC-20981       Antioxidant Additive   12    1,450 lbs
+
+Total Weight: 23,450 lbs
+Hazmat: No
+Special Instructions: Deliver to dock 4. Call 2 hrs before arrival. Keep dry.

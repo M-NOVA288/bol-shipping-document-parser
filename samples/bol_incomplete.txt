@@ -1,0 +1,15 @@
+BILL OF LADING
+BOL Number: BOL-2026-005090
+Ship Date: 10/29/2026
+Carrier: Bayou Express
+
+SHIP TO:
+Northside Packaging Co
+77 Loop Rd
+Houston, TX
+
+ITEMS
+PC-30112       Stretch Film Rolls     60    3,000 lbs
+PC-30140       Pallet Corners         0     150 lbs
+
+Total Weight: 4,000 lbs

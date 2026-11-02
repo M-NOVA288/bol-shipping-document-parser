@@ -1,0 +1,30 @@
+From: dispatch@lonestarlogistics.example
+Subject: Shipment confirmation - B/L # LSL-88213
+
+Hi team,
+
+Your order has shipped. Details below.
+
+shipping date: Oct 22, 2026
+carrier: Lone Star Logistics
+scac: LSLX
+po no: 55120-B
+
+shipper: Channelview Terminal
+3100 Sheldon Rd
+Channelview, TX 77530
+
+consignee: Rio Grande Coatings Inc
+802 Industrial Blvd
+Laredo, TX 78045
+
+product code  description           qty  weight
+RG-4410       Epoxy Hardener Drums  8    1,600 kg
+RG-4415       Solvent Blend         4    700 kg
+
+total gross weight: 2,300 kg
+hazmat: Y
+special instructions: Hazmat placards required. Liftgate delivery.
+
+Thanks,
+Dispatch
